@@ -15,4 +15,6 @@ Let's connect and bring your ideas to life! ✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QandeelKhan)](https://github.com/QandeelKhan/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QandeelKhan&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QandeelKhan&layout=compact)
