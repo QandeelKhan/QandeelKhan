@@ -13,4 +13,4 @@ Let's connect and bring your ideas to life! ✨
 
 #![git](https://github.com/QandeelKhan/QandeelKhan/assets/52636977/de028c34-7175-4670-b893-5acac5e4abd5)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/QandeelKhan/github-readme-stats)
