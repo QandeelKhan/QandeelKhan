@@ -11,12 +11,4 @@ I'm Qandeel, a skilled Software Engineer with a focus on Python/Django 🐍 and 
 
 Let's connect and bring your ideas to life! ✨
 
-#![git](https://github.com/QandeelKhan/QandeelKhan/assets/52636977/de028c34-7175-4670-b893-5acac5e4abd5)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QandeelKhan)](https://github.com/QandeelKhan/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QandeelKhan&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QandeelKhan&layout=compact)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QandeelKhan&layout=donut)](https://github.com/QandeelKhan/github-readme-stats)
