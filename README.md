@@ -18,3 +18,5 @@ Let's connect and bring your ideas to life! ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QandeelKhan&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QandeelKhan&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QandeelKhan&layout=donut)](https://github.com/QandeelKhan/github-readme-stats)
